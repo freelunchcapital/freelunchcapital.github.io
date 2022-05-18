@@ -7,7 +7,7 @@ module.exports = {
   entry: './src/index.tsx',
   plugins: [
     new HtmlWebpackPlugin({
-      favicon: 'src/favicon.ico',
+      favicon: 'src/favicon.png',
       template: 'src/index.html'
     }),
     new CopyWebpackPlugin({
