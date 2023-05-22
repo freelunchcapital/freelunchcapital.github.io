@@ -2,12 +2,7 @@ import React from 'react';
 
 import {
   Container,
-  Image,
-  Navbar,
-  Nav,
-  Card,
-  Col,
-  Row,
+  Image
 } from 'react-bootstrap';
 
 const App = () => (
